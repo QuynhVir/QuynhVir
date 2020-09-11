@@ -49,5 +49,5 @@ Cyber-security enthusiast, self-taught developer from Vietnam.
 ### Connect with me :smiley:
 
 <p align="center">
-  <a target="_blank" href="https://github.com/kittinan/spotify-github-profile"><img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=e0u91yvg2m9h1ngzfjl2ruooa&cover_image=false" />
+  <a target="_blank" href="https://open.spotify.com/user/e0u91yvg2m9h1ngzfjl2ruooa"><img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=e0u91yvg2m9h1ngzfjl2ruooa" />
 </p>
