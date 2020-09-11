@@ -1,16 +1,21 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=quynhvir&show_icons=true&count_private=true" />
 
-<!--
-**QuynhVir/QuynhVir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Vir 👋
 
-Here are some ideas to get you started:
+<a href="https://facebook.com/quynhvir">
+  <img align="left" alt="Quynh Vir | Twitter" width="21px" src="https://raw.githubusercontent.com/quynhvir/quynhvir/master/assets/facebook.svg" />
+</a>
+<a href="https://twitter.com/quynhvir">
+  <img align="left" alt="Quynh Vir | Twitter" width="21px" src="https://raw.githubusercontent.com/quynhvir/quynhvir/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/quynhvir">
+  <img align="left" alt="Quynh Vir | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/quynhvir/quynhvir/master/assets/codesandbox.svg" />
+</a>
+<a href="mailto:quynh&#64;vir.vn">
+  <img align="left" alt="Quynh Vir's email" width="21px" src="https://raw.githubusercontent.com/quynhvir/quynhvir/master/assets/mail.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+Hi, I'm Quynh Vir, a self-taught web developer from Vietnam.
