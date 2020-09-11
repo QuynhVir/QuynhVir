@@ -2,16 +2,16 @@
 
 ### Hi there, I'm Vir 👋
 
-<a href="https://facebook.com/quynhvir">
+<a target="_blank" href="https://facebook.com/quynhvir">
   <img align="left" alt="Quynh Vir | Twitter" width="21px" src="https://raw.githubusercontent.com/quynhvir/quynhvir/master/assets/facebook.svg" />
 </a>
-<a href="https://twitter.com/quynhvir">
+<a target="_blank" href="https://twitter.com/quynhvir">
   <img align="left" alt="Quynh Vir | Twitter" width="21px" src="https://raw.githubusercontent.com/quynhvir/quynhvir/master/assets/twitter.svg" />
 </a>
-<a href="https://codesandbox.io/u/quynhvir">
+<a target="_blank" href="https://codesandbox.io/u/quynhvir">
   <img align="left" alt="Quynh Vir | CodeSandbox" width="21px" src="https://raw.githubusercontent.com/quynhvir/quynhvir/master/assets/codesandbox.svg" />
 </a>
-<a href="mailto:quynh&#64;vir.vn">
+<a target="_blank" href="mailto:quynh@vir.vn">
   <img align="left" alt="Quynh Vir's email" width="21px" src="https://raw.githubusercontent.com/quynhvir/quynhvir/master/assets/mail.svg" />
 </a>
 
@@ -49,5 +49,5 @@ Cyber-security enthusiast, self-taught developer from Vietnam.
 ### Connect with me :smiley:
 
 <p align="center">
-  <a target="_blank" href="https://open.spotify.com/user/e0u91yvg2m9h1ngzfjl2ruooa"><img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=e0u91yvg2m9h1ngzfjl2ruooa" />
+  <a target="_blank" href="https://open.spotify.com/user/e0u91yvg2m9h1ngzfjl2ruooa"><img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=e0u91yvg2m9h1ngzfjl2ruooa&cover_image=false" />
 </p>
