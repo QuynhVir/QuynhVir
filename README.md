@@ -45,3 +45,9 @@ Cyber-security enthusiast, self-taught developer from Vietnam.
 <a><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a>
 <a><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"></a>
 <a><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></a>
+
+### Connect with me :smiley:
+
+<p align="center">
+  <a target="_blank" href="https://github.com/kittinan/spotify-github-profile"><img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=e0u91yvg2m9h1ngzfjl2ruooa&cover_image=false" />
+</p>
