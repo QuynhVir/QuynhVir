@@ -18,7 +18,7 @@
 <br />
 <br />
 
-A self-taught developer from Vietnam.
+Cyber-security enthusiast, self-taught developer from Vietnam.
 
 - 🔭 I’m currently working on my project [Sekure](https://github.com/QuynhVir/Sekure)
 - 🌱 I’m currently learning Rust & Typescript
