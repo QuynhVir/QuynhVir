@@ -20,9 +20,9 @@
 
 Cyber-security enthusiast, self-taught developer from Vietnam.
 
-- 🔭 I’m currently working on my project [Sekure](https://github.com/QuynhVir/Sekure)
-- 🌱 I’m currently learning Rust & Typescript
-- 💬 Ask me about anything [here](https://github.com/QuynhVir/QuynhVir/issues)
+- 🔭 &ensp; I’m currently working on my project [Sekure](https://github.com/QuynhVir/Sekure)
+- 🌱 &ensp; I’m currently learning Rust & Typescript
+- 💬 &ensp; Ask me about anything [here](https://github.com/QuynhVir/QuynhVir/issues)
 
 **Languages and Tools:**
 
