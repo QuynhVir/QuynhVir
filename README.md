@@ -44,9 +44,3 @@ Cyber-security enthusiast, self-taught developer from Vietnam.
 <a><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></a>
 <a><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a>
 <a><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"></a>
-
-### Connect with me :smiley:
-
-<p align="center">
-  <a target="_blank" href="https://open.spotify.com/user/e0u91yvg2m9h1ngzfjl2ruooa"><img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=e0u91yvg2m9h1ngzfjl2ruooa&cover_image=false" />
-</p>
