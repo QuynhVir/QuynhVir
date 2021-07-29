@@ -11,7 +11,7 @@
 <a target="_blank" href="https://codesandbox.io/u/quynhvir">
   <img align="left" alt="Quynh Vir | CodeSandbox" width="21px" src="https://raw.githubusercontent.com/quynhvir/quynhvir/master/assets/codesandbox.svg" />
 </a>
-<a target="_blank" href="mailto:quynh@vir.vn">
+<a target="_blank" href="mailto:quynh@virware.net">
   <img align="left" alt="Quynh Vir's email" width="21px" src="https://raw.githubusercontent.com/quynhvir/quynhvir/master/assets/mail.svg" />
 </a>
 
