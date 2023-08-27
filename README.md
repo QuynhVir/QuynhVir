@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=quynhvir&show_icons=true&count_private=true" />
-
 ## Hi there, I'm Vir 👋
 
 <a target="_blank" href="https://facebook.com/quynhvir">
