@@ -1,8 +1,5 @@
 ## Hi there, I'm Vir 👋
 
-<a target="_blank" href="https://facebook.com/quynhvir">
-  <img align="left" alt="Quynh Vir | Twitter" width="21px" src="https://raw.githubusercontent.com/quynhvir/quynhvir/master/assets/facebook.svg" />
-</a>
 <a target="_blank" href="https://twitter.com/quynhvir">
   <img align="left" alt="Quynh Vir | Twitter" width="21px" src="https://raw.githubusercontent.com/quynhvir/quynhvir/master/assets/twitter.svg" />
 </a>
@@ -19,7 +16,7 @@
 Cyber-security enthusiast, self-taught developer from Vietnam.
 
 - 🔭 &nbsp; I’m currently working on my project [Sekure](https://github.com/QuynhVir/Sekure)
-- 🌱 &nbsp; I’m currently learning Rust & Typescript
+- 🌱 &nbsp; I’m currently learning Solidity/EVM
 - 💬 &nbsp; Ask me about anything [here](https://github.com/QuynhVir/QuynhVir/issues)
 
 ### Programming Languages  :rocket:
